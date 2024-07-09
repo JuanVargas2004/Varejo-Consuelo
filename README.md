@@ -1,6 +1,6 @@
 # Projeto Varejo - Consuelo
 
-Recebemos dados com alguns problemas de estrutura. Recomendo que leia esse README em conjunto com o código feito pelo [Google Colab.](https://colab.research.google.com/drive/13efcBLyRUKfaPaEG5CyPOlCrW2iXfT_r?usp=drive_link)
+Recebemos dados com alguns problemas de estrutura. Recomendo que leia esse README em conjunto com o código feito pelo [Google Colab](https://colab.research.google.com/drive/13efcBLyRUKfaPaEG5CyPOlCrW2iXfT_r?usp=drive_link), para visualizar uma explicação passo a passo dos processos citados abaixo.
 
 
 ## 📚 *Bibliotecas utilizdas*
