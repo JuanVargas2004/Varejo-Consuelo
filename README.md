@@ -36,7 +36,7 @@ Recebemos dados com alguns problemas de estrutura. Recomendo que leia esse READM
 ### ‎ ↳ Erros encontrados:
 - As datas estavam com horas, minutos e segundos idênticos em todas as células, então decidimos deixar as colunas de vendas mostrando apenas dia, mês e ano.
 
-![erro campanhas](imagens/erro_camapanhas.png)
+![erro campanhas](imagens/erro_campanhas.png)
 ![erro promocoes](imagens/erro_promocoes.png)
 
 ### ✔ Tratando o erro:
