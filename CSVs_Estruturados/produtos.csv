@@ -12,7 +12,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 11;Casa e Jardim;202,5751509249393;Cortina 452
 12;Brinquedos;174,52121406382784;Carrinho 946
 13;Eletrônicos;227,8994943275539;Notebook 257
-14;Esportes;242,58891931932655;Skate 496
+14;Esportes;242,58891931932652;Skate 496
 15;Alimentos;343,16577891496473;Feijão 389
 16;Móveis;358,7705023981356;Cadeira 686
 17;Esportes;54,5247873052281;Camisa de time 843
@@ -22,7 +22,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 21;Brinquedos;420,8235334642377;Bicicleta 418
 22;Eletrônicos;394,6328351460762;Smartphone 816
 23;Esportes;354,79162661489846;Tênis de corrida 655
-24;Alimentos;200,63463780738132;Arroz 778
+24;Alimentos;200,63463780738127;Arroz 778
 25;Beleza;436,5598268874717;Shampoo 891
 26;Eletrônicos;16,086203012729158;Fone de ouvido 702
 27;Eletrônicos;108,81313168497373;Smartphone 306
@@ -117,7 +117,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 116;Brinquedos;423,407929183375;Bicicleta 184
 117;Brinquedos;160,21131717613548;Carrinho 226
 118;Livros;424,4900144575363;História 571
-119;Brinquedos;232,25629169299572;Bicicleta 827
+119;Brinquedos;232,2562916929957;Bicicleta 827
 120;Casa e Jardim;337,4138795983108;Lâmpada 992
 121;Alimentos;377,4419274312388;Frango 884
 122;Roupas;98,47603913910848;Sapato 826
@@ -290,7 +290,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 289;Eletrônicos;209,1825862430724;Câmera 140
 290;Brinquedos;216,7940286097444;Bola 403
 291;Casa e Jardim;49,01357046184;Cortina 870
-292;Ferramentas;255,52067938993815;Alicate 689
+292;Ferramentas;255,52067938993812;Alicate 689
 293;Eletrônicos;150,11638695467354;TV 952
 294;Alimentos;64,59890083387766;Arroz 289
 295;Beleza;305,1300932610472;Creme hidratante 829
@@ -408,7 +408,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 407;Brinquedos;274,97076031920375;Bola 436
 408;Brinquedos;314,76478454166266;Bola 458
 409;Roupas;300,15190719270583;Jaqueta 999
-410;Eletrônicos;231,05951348511655;Smartphone 699
+410;Eletrônicos;231,05951348511653;Smartphone 699
 411;Livros;13,19499186852351;Romance 718
 412;Móveis;341,74113206585287;Guarda-roupa 720
 413;Beleza;52,37118686102197;Condicionador 172
@@ -429,7 +429,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 428;Alimentos;183,0623820138213;Macarrão 470
 429;Alimentos;255,3532928849026;Arroz 164
 430;Brinquedos;388,4141651581117;Bicicleta 131
-431;Livros;203,19234395202972;Ficção Científica 736
+431;Livros;203,1923439520297;Ficção Científica 736
 432;Alimentos;293,3398837272566;Frango 773
 433;Móveis;158,9466971485177;Sofá 827
 434;Esportes;319,3896773732119;Skate 999
@@ -449,12 +449,12 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 448;Alimentos;273,29767350297305;Feijão 433
 449;Roupas;227,89463653039823;Vestido 496
 450;Roupas;314,0264843686593;Jaqueta 674
-451;Brinquedos;223,16063742629677;Jogo de tabuleiro 367
+451;Brinquedos;223,1606374262968;Jogo de tabuleiro 367
 452;Livros;27,670625692423823;Ficção Científica 447
 453;Brinquedos;375,1294869488965;Carrinho 645
-454;Livros;232,91570609752412;História 652
+454;Livros;232,9157060975241;História 652
 455;Brinquedos;122,4423903883003;Bicicleta 453
-456;Roupas;230,77013447265855;Calça 108
+456;Roupas;230,77013447265853;Calça 108
 457;Casa e Jardim;50,93210024391543;Lâmpada 692
 458;Móveis;446,8010725502125;Cadeira 893
 459;Alimentos;185,9609509454067;Feijão 603
@@ -463,7 +463,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 462;Móveis;242,5995197513381;Cadeira 921
 463;Alimentos;98,20122224891904;Arroz 936
 464;Eletrônicos;133,03962242212634;Notebook 535
-465;Roupas;202,37344023048556;Vestido 719
+465;Roupas;202,3734402304856;Vestido 719
 466;Beleza;423,0507776007423;Shampoo 673
 467;Alimentos;70,64904555119233;Frango 298
 468;Casa e Jardim;452,2113508442295;Cortina 948
@@ -489,7 +489,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 488;Ferramentas;274,27839047745806;Alicate 974
 489;Brinquedos;22,58563511736348;Boneca 682
 490;Casa e Jardim;26,27840568202093;Lâmpada 581
-491;Brinquedos;25,329301755149796;Boneca 387
+491;Brinquedos;25,3293017551498;Boneca 387
 492;Beleza;375,6389971607328;Creme hidratante 904
 493;Esportes;289,0593545313311;Tênis de corrida 608
 494;Casa e Jardim;87,50042795584949;Cortina 262
@@ -592,7 +592,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 591;Casa e Jardim;436,5936754196605;Jogo de ferramentas 999
 592;Brinquedos;175,26428883220922;Bicicleta 655
 593;Livros;209,77703861085925;História 962
-594;Roupas;28,200436751600357;Calça 885
+594;Roupas;28,20043675160036;Calça 885
 595;Livros;396,537074493199;História 375
 596;Beleza;131,72699728376688;Condicionador 304
 597;Eletrônicos;413,9908404099299;Notebook 381
@@ -687,7 +687,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 686;Alimentos;230,22801965678087;Arroz 286
 687;Esportes;308,9139255278177;Skate 654
 688;Livros;312,9454182708416;Infantil 698
-689;Móveis;182,85867925902477;Cama 589
+689;Móveis;182,8586792590248;Cama 589
 690;Livros;309,5134717574005;História 347
 691;Ferramentas;113,65421254840771;Chave de fenda 719
 692;Brinquedos;384,9414596368729;Jogo de tabuleiro 409
@@ -750,7 +750,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 749;Alimentos;167,7525460162541;Carne 526
 750;Móveis;370,9704416359263;Cama 111
 751;Beleza;159,50971005567422;Maquiagem 184
-752;Esportes;198,26330974486052;Raquete de tênis 258
+752;Esportes;198,2633097448605;Raquete de tênis 258
 753;Ferramentas;249,92201916877488;Serra 297
 754;Beleza;345,6169375082073;Shampoo 921
 755;Alimentos;273,48709758750414;Carne 345
@@ -760,7 +760,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 759;Alimentos;160,86582695181605;Carne 845
 760;Ferramentas;372,665175820281;Serra 146
 761;Casa e Jardim;152,70182138831314;Jogo de ferramentas 385
-762;Roupas;239,83180215684317;Sapato 929
+762;Roupas;239,8318021568432;Sapato 929
 763;Beleza;239,2232744095072;Maquiagem 566
 764;Livros;252,7041442728601;Biografia 673
 765;Eletrônicos;451,052134405636;Notebook 195
@@ -785,11 +785,11 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 784;Esportes;273,9751169924449;Skate 577
 785;Alimentos;176,15604033015046;Arroz 218
 786;Móveis;393,7137739728759;Guarda-roupa 420
-787;Brinquedos;21,203079874642015;Carrinho 661
+787;Brinquedos;21,20307987464201;Carrinho 661
 788;Roupas;107,06931604810234;Calça 329
 789;Roupas;391,1937420044897;Sapato 546
 790;Ferramentas;80,798290495629;Furadeira 775
-791;Brinquedos;30,740992877922174;Bicicleta 793
+791;Brinquedos;30,74099287792217;Bicicleta 793
 792;Eletrônicos;188,3613806260805;TV 522
 793;Esportes;49,88519833109722;Camisa de time 668
 794;Ferramentas;257,57428394350995;Chave de fenda 239
@@ -815,7 +815,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 814;Ferramentas;51,92847848500675;Furadeira 812
 815;Beleza;62,89125388419925;Shampoo 640
 816;Esportes;276,7399682089434;Camisa de time 371
-817;Móveis;246,61338759985935;Cadeira 517
+817;Móveis;246,61338759985932;Cadeira 517
 818;Casa e Jardim;298,8650374024733;Lâmpada 467
 819;Livros;20,10560876725952;Ficção Científica 930
 820;Móveis;469,48492312931177;Guarda-roupa 813
@@ -830,7 +830,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 829;Brinquedos;412,6938131918092;Boneca 708
 830;Roupas;427,30267086635104;Jaqueta 286
 831;Esportes;319,57531701681654;Raquete de tênis 915
-832;Beleza;197,33790006295212;Maquiagem 441
+832;Beleza;197,3379000629521;Maquiagem 441
 833;Alimentos;236,9543953810085;Frango 986
 834;Esportes;132,8002401192751;Camisa de time 917
 835;Roupas;108,6309197880399;Camiseta 325
@@ -850,7 +850,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 849;Beleza;335,49157438236534;Perfume 617
 850;Ferramentas;39,41412597713392;Martelo 988
 851;Alimentos;429,35651340732704;Frango 702
-852;Alimentos;238,92406487129037;Feijão 270
+852;Alimentos;238,9240648712904;Feijão 270
 853;Ferramentas;115,35909920121271;Chave de fenda 531
 854;Casa e Jardim;421,1627987736059;Cortina 194
 855;Beleza;236,43271369897784;Creme hidratante 715
@@ -891,7 +891,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 890;Ferramentas;395,07474973275424;Serra 723
 891;Ferramentas;424,4191587389416;Serra 960
 892;Brinquedos;454,7898254067226;Bola 332
-893;Esportes;226,09603435137052;Camisa de time 902
+893;Esportes;226,0960343513705;Camisa de time 902
 894;Eletrônicos;120,1957902940616;Fone de ouvido 531
 895;Casa e Jardim;466,4029513046341;Vaso de planta 237
 896;Esportes;440,6281523449972;Camisa de time 679
@@ -964,7 +964,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 963;Brinquedos;316,06662143219654;Carrinho 159
 964;Eletrônicos;295,0327746585904;Smartphone 500
 965;Esportes;274,6417936313008;Camisa de time 385
-966;Eletrônicos;197,87646424953877;Câmera 718
+966;Eletrônicos;197,8764642495388;Câmera 718
 967;Livros;336,8541474307369;Infantil 318
 968;Móveis;339,1797644284344;Guarda-roupa 921
 969;Eletrônicos;277,25355031464375;Smartphone 784
@@ -980,7 +980,7 @@ ID_Produto;Categoria_Produto;Preco_Base;Nome_Produto
 979;Esportes;184,16150563313303;Camisa de time 357
 980;Casa e Jardim;292,6424200629657;Vaso de planta 344
 981;Livros;206,91705397811788;Biografia 838
-982;Brinquedos;207,86366068510236;Boneca 445
+982;Brinquedos;207,8636606851024;Boneca 445
 983;Livros;374,04946414173605;Biografia 506
 984;Livros;203,91178901293145;Ficção Científica 868
 985;Roupas;377,3353225670588;Camiseta 436
