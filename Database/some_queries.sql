@@ -117,3 +117,30 @@ SELECT e.id_cliente, e.data_engajamento
 FROM engajamento e
 ORDER BY id_cliente
 ;
+
+
+SELECT p.nome_produto AS Produto, COUNT(v.id_venda) AS Qntd_Compras
+FROM vendas v
+JOIN promocoes promo ON (v.data_venda BETWEEN promo.data_inicio AND promo.data_fim) AND (v.id_produto = promo.id_produto)
+JOIN produtos p ON v.id_produto = p.id_produto
+GROUP BY v.id_produto
+ORDER BY v.id_produto
+;
+
+SELECT v.id_cliente AS ID_Cliente, COUNT(v.id_venda) AS Compras, c.satisfacao AS Satisfação
+FROM vendas v
+LEFT JOIN promocoes promo ON (v.data_venda BETWEEN promo.data_inicio AND promo.data_fim) AND (v.id_produto = promo.id_produto)
+JOIN produtos p ON v.id_produto = p.id_produto
+JOIN clientes c ON v.id_cliente = c.id_cliente
+WHERE promo.id_promocao IS NULL
+GROUP BY ID_Cliente
+ORDER BY ID_Cliente
+;
+
+
+SELECT SUM(v.quantidade) AS Quantidade_Vendas
+FROM vendas v
+JOIN promocoes promo ON (v.data_venda BETWEEN promo.data_inicio AND promo.data_fim) AND (v.id_produto = promo.id_produto)
+JOIN produtos p ON v.id_produto = p.id_produto
+#WHERE promo.id_promocao IS NULL
+;
