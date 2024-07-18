@@ -1,0 +1,10 @@
+1- Analisamos as promoções e percebemos que as promoções prejudicavam as compras
+		
+		Primeiro realizamos o "teste t" que, ao entendimento do grupo, é um artifício para avaliar se a média de diferença entre seções de mesma grandeza é significativa ou não
+		
+		Fizemos o teste, e o resultado deu positivo para diferença significativa
+		
+		Após isso, fizemos uma comparação por produto entre dias e volumes em promoção dividindo pelos dias e volumes fora de promoção. A média dessa comparação deu 0,988712
+		
+		
+		Conclusão: As promoções tiveram um impacto negativo, com uma redução nos volumes de vendas durante os dias de promoção
