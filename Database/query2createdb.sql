@@ -13,9 +13,9 @@ CREATE TABLE vendas(
     id_loja INT,
     data_venda DATE,
     quantidade INT,
-    preco_unitario DECIMAL,
+    preco_unitario DOUBLE,
     id_cliente INT,
-    desconto DECIMAL,
+    desconto DOUBLE,
     promocao VARCHAR(5),
     estoque_inical INT,
     estoque_final INT,
@@ -29,7 +29,7 @@ CREATE TABLE vendas(
 CREATE TABLE produtos(
 	id_produto INT,
     categoria VARCHAR(100),
-    preco_base DECIMAL,
+    preco_base DOUBLE,
     nome_produto VARCHAR(100),
     PRIMARY KEY (id_produto)
 );
@@ -40,7 +40,7 @@ CREATE TABLE promocoes(
 	id_promocao INT,
     data_inicio DATE,
     data_fim DATE,
-    desconto DECIMAL,
+    desconto DOUBLE,
     id_produto INT,
     PRIMARY KEY (id_promocao)
 );
