@@ -64,7 +64,7 @@ ORDER BY v.id_produto
 ) somarvsp
 GROUP BY id_produto
 )
-SELECT *
+SELECT vcp.id_produto, Dias_Promo, Receita_Promo, Dias_SemPromo, Receita_SemPromo
 FROM vcp
 JOIN vsp ON vcp.id_produto = vsp.id_produto
 ;
