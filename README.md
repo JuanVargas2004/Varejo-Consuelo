@@ -82,3 +82,27 @@ Em nossos [testes realizados](Relacoes/DiferençaPromoções/DiferençaPromoçõ
 ### Conclusão
 
 Com base nesses resultados, podemos concluir que as promoções não tiveram um impacto estatisticamente significativo nas vendas. A pequena diferença observada entre as vendas durante as promoções e fora das promoções pode ser devida ao acaso.
+
+
+
+### *- As promoções alavancam a receita* 👍
+
+A partir dos dados fornecidos, criamos uma nova tabela via MySQL e nela realizamos alguns testes de significância para verificar se as promoções foram benéficas ou não para a nossa rede de lojas.
+
+![receitas por dia](imagens/tabela_receitas-dia.png)
+
+
+
+Em nossos [testes realizados](Relacoes/DiferençaPromoçõesReceita/DiasPromoReceita.ipynb), verificamos que:
+
+- O valor do nosso t-statistic foi igual a **```0.15614170536662791```**
+
+- O nosso p-valor foi igual a **```0.8759475007859607```**
+
+### Conclusão
+
+Com base nos resultados do teste t realizado, não encontramos evidências estatísticas suficientes para concluir que as promoções tiveram um impacto significativo na receita. O valor do teste t foi de 0.156, e o valor p associado foi de 0.876.
+
+Portanto, com um nível de significância típico de 0.05, não rejeitamos a hipótese nula de que não há diferença significativa entre a receita média por dia durante as promoções e fora delas. A pequena diferença observada entre as médias de receita pode muito bem ser devido ao acaso ou variabilidade natural nos dados.
+
+Assim, podemos concluir que as promoções não tiveram um impacto estatisticamente significativo na receita, com base na análise realizada.
