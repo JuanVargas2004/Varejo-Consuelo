@@ -1,0 +1,1001 @@
+id_produto;nome_produto;categoria;num_vendas;qntd_vendida
+264;"Lâmpada 956";"Casa e Jardim";323;1809
+13;"Notebook 257";Eletrônicos;321;1779
+741;"Jaqueta 609";Roupas;318;1776
+823;"Vestido 785";Roupas;316;1698
+432;"Frango 773";Alimentos;316;1704
+110;"Mesa 556";Móveis;315;1749
+22;"Smartphone 816";Eletrônicos;314;1697
+207;"Jogo de ferramentas 506";"Casa e Jardim";314;1691
+615;"Guarda-roupa 374";Móveis;313;1731
+494;"Cortina 262";"Casa e Jardim";313;1717
+260;"Maquiagem 621";Beleza;313;1752
+507;"Arroz 552";Alimentos;312;1719
+941;"Carrinho 302";Brinquedos;311;1769
+176;"Bola de futebol 538";Esportes;310;1670
+664;"Carne 213";Alimentos;310;1643
+131;"Arroz 810";Alimentos;310;1742
+831;"Raquete de tênis 915";Esportes;309;1681
+535;"Cadeira 924";Móveis;308;1805
+571;"Biografia 509";Livros;307;1729
+821;"Ficção Científica 764";Livros;307;1651
+187;"Cortina 914";"Casa e Jardim";306;1638
+310;"Carrinho 176";Brinquedos;306;1687
+650;"Cama 523";Móveis;306;1670
+490;"Lâmpada 581";"Casa e Jardim";306;1589
+377;"Fone de ouvido 927";Eletrônicos;305;1686
+19;"Sapato 381";Roupas;305;1729
+654;"Romance 974";Livros;305;1620
+623;"Boneca 906";Brinquedos;305;1668
+189;"Creme hidratante 340";Beleza;304;1616
+735;"Carne 290";Alimentos;304;1768
+959;"Lâmpada 920";"Casa e Jardim";304;1692
+731;"Skate 365";Esportes;304;1652
+960;"Camiseta 526";Roupas;304;1621
+671;"Cama 434";Móveis;304;1616
+332;"Bola de futebol 107";Esportes;304;1683
+700;"Sapato 198";Roupas;304;1680
+447;"Smartphone 289";Eletrônicos;303;1691
+429;"Arroz 164";Alimentos;303;1793
+387;"Arroz 524";Alimentos;303;1560
+184;"Cortina 452";"Casa e Jardim";302;1568
+687;"Skate 654";Esportes;302;1607
+90;"Martelo 245";Ferramentas;302;1678
+780;"Jogo de ferramentas 713";"Casa e Jardim";301;1704
+48;"Bicicleta 263";Brinquedos;301;1734
+235;"Skate 924";Esportes;301;1697
+248;"Creme hidratante 497";Beleza;301;1605
+326;"Condicionador 444";Beleza;301;1640
+709;"Chave de fenda 453";Ferramentas;300;1688
+861;"Maquiagem 349";Beleza;300;1632
+95;"Camiseta 373";Roupas;300;1639
+470;"Guarda-roupa 928";Móveis;300;1638
+356;"Guarda-roupa 235";Móveis;299;1616
+762;"Sapato 929";Roupas;299;1647
+753;"Serra 297";Ferramentas;299;1570
+676;"Carrinho 928";Brinquedos;299;1630
+347;"Creme hidratante 151";Beleza;299;1623
+754;"Shampoo 921";Beleza;298;1596
+946;"TV 536";Eletrônicos;298;1609
+986;"Skate 116";Esportes;298;1594
+732;"Tapete 534";"Casa e Jardim";298;1703
+819;"Ficção Científica 930";Livros;298;1678
+191;"Ficção Científica 656";Livros;298;1723
+510;"Furadeira 370";Ferramentas;298;1719
+782;"Furadeira 106";Ferramentas;298;1645
+526;"Jogo de ferramentas 892";"Casa e Jardim";298;1688
+154;"Tapete 535";"Casa e Jardim";298;1576
+942;"Biografia 879";Livros;297;1549
+435;"Carrinho 844";Brinquedos;297;1686
+265;"Frango 480";Alimentos;297;1574
+186;"Ficção Científica 537";Livros;297;1656
+669;"Chave de fenda 232";Ferramentas;297;1603
+153;"Feijão 434";Alimentos;297;1595
+151;"Vaso de planta 502";"Casa e Jardim";297;1722
+29;"Alicate 797";Ferramentas;296;1600
+217;"Smartphone 690";Eletrônicos;296;1709
+708;"Jogo de tabuleiro 622";Brinquedos;296;1796
+336;"Cadeira 974";Móveis;296;1689
+944;"Jaqueta 483";Roupas;296;1574
+544;"Mesa 704";Móveis;296;1635
+52;"Perfume 697";Beleza;296;1578
+711;"Furadeira 990";Ferramentas;296;1601
+220;"Ficção Científica 625";Livros;296;1620
+887;"Vaso de planta 937";"Casa e Jardim";296;1610
+306;"Biografia 889";Livros;296;1628
+445;"Mesa 359";Móveis;296;1563
+912;"História 644";Livros;296;1697
+864;"Sapato 478";Roupas;296;1593
+655;"Ficção Científica 291";Livros;296;1552
+896;"Camisa de time 679";Esportes;296;1633
+145;"Martelo 243";Ferramentas;295;1660
+77;"Cadeira 812";Móveis;295;1644
+196;"Tapete 217";"Casa e Jardim";295;1690
+468;"Cortina 948";"Casa e Jardim";295;1600
+737;"História 488";Livros;295;1591
+254;"Jaqueta 738";Roupas;295;1534
+25;"Shampoo 891";Beleza;295;1656
+990;"Bicicleta 309";Brinquedos;295;1678
+35;"Jaqueta 478";Roupas;295;1659
+437;"Romance 115";Livros;295;1671
+997;"Jogo de tabuleiro 660";Brinquedos;294;1551
+393;"Camiseta 536";Roupas;294;1640
+446;"TV 893";Eletrônicos;294;1576
+118;"História 571";Livros;294;1597
+745;"Sofá 995";Móveis;294;1679
+54;"Romance 682";Livros;294;1591
+295;"Creme hidratante 829";Beleza;294;1658
+68;"Perfume 518";Beleza;294;1607
+582;"Cadeira 711";Móveis;294;1608
+466;"Shampoo 673";Beleza;294;1567
+478;"Chave de fenda 130";Ferramentas;293;1539
+418;"Boneca 736";Brinquedos;293;1681
+868;"Perfume 255";Beleza;293;1652
+703;"Maquiagem 831";Beleza;293;1626
+638;"Furadeira 834";Ferramentas;293;1553
+548;"Infantil 725";Livros;293;1606
+616;"Biografia 682";Livros;293;1654
+996;"Biografia 413";Livros;293;1664
+396;"Smartphone 663";Eletrônicos;293;1719
+293;"TV 952";Eletrônicos;292;1584
+475;"Bicicleta 186";Brinquedos;292;1619
+75;"Feijão 259";Alimentos;292;1510
+830;"Jaqueta 286";Roupas;291;1627
+954;"Perfume 779";Beleza;291;1589
+43;"Vaso de planta 376";"Casa e Jardim";291;1599
+894;"Fone de ouvido 531";Eletrônicos;291;1640
+756;"Cadeira 794";Móveis;291;1628
+855;"Creme hidratante 715";Beleza;291;1577
+158;"Martelo 364";Ferramentas;291;1681
+209;"Martelo 990";Ferramentas;291;1548
+272;"TV 713";Eletrônicos;290;1602
+218;"Camiseta 723";Roupas;290;1680
+250;"Martelo 155";Ferramentas;290;1625
+825;"Perfume 660";Beleza;290;1494
+787;"Carrinho 661";Brinquedos;290;1572
+635;"Romance 473";Livros;290;1635
+9;"Jaqueta 723";Roupas;290;1587
+32;"Biografia 396";Livros;290;1571
+646;"Biografia 779";Livros;290;1560
+115;"Guarda-roupa 271";Móveis;290;1641
+768;"Infantil 542";Livros;289;1619
+124;"Tênis de corrida 953";Esportes;289;1611
+736;"Perfume 619";Beleza;289;1626
+977;"Perfume 184";Beleza;289;1579
+291;"Cortina 870";"Casa e Jardim";289;1528
+791;"Bicicleta 793";Brinquedos;289;1562
+130;"Condicionador 130";Beleza;289;1486
+99;"Mesa 513";Móveis;289;1581
+974;"Biografia 227";Livros;289;1481
+213;"Bicicleta 566";Brinquedos;289;1597
+221;"Maquiagem 105";Beleza;289;1610
+854;"Cortina 194";"Casa e Jardim";289;1550
+958;"Vaso de planta 579";"Casa e Jardim";289;1557
+898;"Perfume 805";Beleza;289;1582
+479;"Bola 924";Brinquedos;289;1523
+463;"Arroz 936";Alimentos;288;1656
+64;"Feijão 855";Alimentos;288;1586
+618;"Raquete de tênis 871";Esportes;288;1646
+325;"Cortina 496";"Casa e Jardim";288;1567
+771;"Vaso de planta 546";"Casa e Jardim";288;1531
+441;"Romance 467";Livros;288;1580
+1000;"Creme hidratante 310";Beleza;288;1583
+829;"Boneca 708";Brinquedos;288;1526
+81;"Calça 531";Roupas;288;1603
+852;"Feijão 270";Alimentos;288;1570
+116;"Bicicleta 184";Brinquedos;288;1600
+976;"Bola de futebol 397";Esportes;288;1517
+820;"Guarda-roupa 813";Móveis;288;1561
+138;"Sapato 524";Roupas;288;1475
+532;"Raquete de tênis 719";Esportes;288;1489
+160;"Camiseta 833";Roupas;288;1665
+538;"Creme hidratante 624";Beleza;288;1603
+232;"Perfume 483";Beleza;287;1578
+389;"Macarrão 555";Alimentos;287;1549
+923;"Alicate 944";Ferramentas;287;1497
+167;"Sofá 488";Móveis;287;1641
+966;"Câmera 718";Eletrônicos;287;1555
+845;"Câmera 924";Eletrônicos;287;1560
+382;"Mesa 590";Móveis;287;1534
+789;"Sapato 546";Roupas;287;1558
+360;"Ficção Científica 474";Livros;287;1723
+452;"Ficção Científica 447";Livros;287;1621
+327;"Infantil 337";Livros;287;1582
+228;"Notebook 766";Eletrônicos;287;1518
+637;"Maquiagem 277";Beleza;287;1638
+765;"Notebook 195";Eletrônicos;287;1565
+70;"Feijão 392";Alimentos;287;1544
+53;"Guarda-roupa 513";Móveis;287;1574
+257;"Lâmpada 687";"Casa e Jardim";287;1581
+103;"Jogo de ferramentas 659";"Casa e Jardim";287;1593
+871;"Sapato 296";Roupas;286;1647
+883;"Smartphone 561";Eletrônicos;286;1499
+867;"Carrinho 576";Brinquedos;286;1511
+192;"Bola de futebol 141";Esportes;286;1588
+812;"Ficção Científica 516";Livros;286;1605
+69;"TV 510";Eletrônicos;286;1579
+49;"TV 438";Eletrônicos;286;1600
+480;"Raquete de tênis 404";Esportes;286;1506
+38;"Serra 184";Ferramentas;286;1572
+119;"Bicicleta 827";Brinquedos;286;1580
+759;"Carne 845";Alimentos;285;1545
+706;"Carne 946";Alimentos;285;1567
+906;"História 369";Livros;285;1587
+798;"Camiseta 488";Roupas;285;1609
+853;"Chave de fenda 531";Ferramentas;285;1591
+175;"Sofá 392";Móveis;285;1588
+92;"Tênis de corrida 579";Esportes;285;1509
+869;"Macarrão 728";Alimentos;285;1446
+201;"TV 480";Eletrônicos;285;1513
+461;"Carne 738";Alimentos;285;1494
+180;"Carne 160";Alimentos;285;1567
+614;"TV 282";Eletrônicos;285;1609
+27;"Smartphone 306";Eletrônicos;285;1501
+608;"Infantil 592";Livros;285;1454
+892;"Bola 332";Brinquedos;285;1659
+246;"Chave de fenda 808";Ferramentas;285;1613
+182;"Ficção Científica 975";Livros;285;1591
+810;"Shampoo 942";Beleza;284;1615
+849;"Perfume 617";Beleza;284;1618
+378;"Feijão 126";Alimentos;284;1546
+460;"Camiseta 554";Roupas;284;1593
+537;"Shampoo 210";Beleza;284;1511
+740;"Macarrão 777";Alimentos;284;1508
+161;"Raquete de tênis 225";Esportes;284;1571
+10;"Shampoo 871";Beleza;284;1490
+229;"Alicate 340";Ferramentas;284;1547
+451;"Jogo de tabuleiro 367";Brinquedos;284;1536
+850;"Martelo 988";Ferramentas;284;1585
+18;"Creme hidratante 939";Beleza;284;1562
+278;"Camisa de time 578";Esportes;284;1600
+37;"Infantil 583";Livros;284;1530
+120;"Lâmpada 992";"Casa e Jardim";284;1514
+380;"Serra 518";Ferramentas;283;1601
+905;"Vestido 500";Roupas;283;1475
+398;"Carne 722";Alimentos;283;1439
+367;"Shampoo 657";Beleza;283;1566
+629;"Raquete de tênis 466";Esportes;283;1620
+967;"Infantil 318";Livros;283;1557
+279;"Bicicleta 988";Brinquedos;283;1553
+808;"Alicate 695";Ferramentas;283;1611
+102;"Furadeira 953";Ferramentas;283;1505
+911;"Bicicleta 253";Brinquedos;283;1561
+749;"Carne 526";Alimentos;283;1548
+876;"História 560";Livros;283;1519
+717;"Vestido 780";Roupas;283;1586
+784;"Skate 577";Esportes;283;1436
+283;"Vestido 730";Roupas;283;1627
+30;"Bola 755";Brinquedos;283;1494
+514;"Bicicleta 670";Brinquedos;283;1597
+632;"Cadeira 810";Móveis;283;1533
+416;"Tapete 684";"Casa e Jardim";283;1441
+552;"Smartphone 752";Eletrônicos;283;1531
+665;"Biografia 877";Livros;283;1539
+578;"Perfume 265";Beleza;283;1520
+949;"Ficção Científica 497";Livros;283;1531
+902;"Ficção Científica 331";Livros;283;1603
+968;"Guarda-roupa 921";Móveis;283;1564
+776;"Furadeira 495";Ferramentas;283;1510
+971;"Carrinho 972";Brinquedos;283;1462
+695;"TV 351";Eletrônicos;283;1530
+691;"Chave de fenda 719";Ferramentas;283;1611
+423;"Tapete 908";"Casa e Jardim";283;1525
+778;"Fone de ouvido 210";Eletrônicos;283;1560
+8;"Camisa de time 285";Esportes;282;1561
+56;"Tapete 420";"Casa e Jardim";282;1542
+457;"Lâmpada 692";"Casa e Jardim";282;1594
+253;"Camiseta 753";Roupas;282;1527
+88;"Tapete 662";"Casa e Jardim";282;1553
+649;"Calça 662";Roupas;282;1573
+105;"Bola 117";Brinquedos;282;1392
+597;"Notebook 381";Eletrônicos;282;1527
+546;"Câmera 839";Eletrônicos;282;1557
+920;"Furadeira 633";Ferramentas;282;1520
+165;"Alicate 713";Ferramentas;282;1566
+59;"Creme hidratante 255";Beleza;282;1553
+509;"Chave de fenda 794";Ferramentas;282;1522
+312;"Infantil 449";Livros;282;1454
+155;"Biografia 962";Livros;282;1622
+477;"Vaso de planta 941";"Casa e Jardim";282;1562
+179;"Cadeira 751";Móveis;281;1537
+699;"Feijão 824";Alimentos;281;1567
+305;"Jaqueta 763";Roupas;281;1570
+796;"Cortina 895";"Casa e Jardim";281;1587
+349;"Tapete 220";"Casa e Jardim";281;1586
+547;"Sofá 649";Móveis;281;1481
+171;"Camisa de time 303";Esportes;281;1542
+915;"Ficção Científica 232";Livros;281;1627
+215;"Câmera 884";Eletrônicos;281;1491
+101;"Vaso de planta 469";"Casa e Jardim";281;1501
+882;"Biografia 448";Livros;281;1614
+375;"Jaqueta 971";Roupas;281;1554
+414;"Camiseta 801";Roupas;281;1524
+579;"Lâmpada 127";"Casa e Jardim";281;1520
+580;"Notebook 333";Eletrônicos;281;1585
+164;"Maquiagem 186";Beleza;281;1553
+340;"Jogo de tabuleiro 298";Brinquedos;281;1590
+859;"Biografia 192";Livros;281;1534
+72;"Jogo de ferramentas 676";"Casa e Jardim";281;1500
+931;"Jogo de tabuleiro 800";Brinquedos;280;1563
+448;"Feijão 433";Alimentos;280;1594
+556;"Cortina 491";"Casa e Jardim";280;1557
+888;"Tênis de corrida 227";Esportes;280;1596
+878;"Fone de ouvido 398";Eletrônicos;280;1473
+76;"Guarda-roupa 396";Móveis;280;1508
+308;"Jaqueta 732";Roupas;280;1571
+569;"Carne 736";Alimentos;280;1559
+934;"Frango 770";Alimentos;280;1568
+889;"Infantil 481";Livros;280;1552
+760;"Serra 146";Ferramentas;280;1534
+169;"Infantil 655";Livros;280;1417
+862;"Bola 773";Brinquedos;280;1506
+685;"Bicicleta 531";Brinquedos;280;1561
+621;"Camisa de time 761";Esportes;280;1505
+476;"Biografia 912";Livros;280;1545
+667;"Frango 462";Alimentos;279;1636
+471;"Biografia 645";Livros;279;1593
+599;"Jaqueta 754";Roupas;279;1593
+807;"História 636";Livros;279;1486
+916;"Cama 290";Móveis;279;1564
+117;"Carrinho 226";Brinquedos;279;1478
+688;"Infantil 698";Livros;279;1584
+636;"Mesa 972";Móveis;279;1638
+97;"Jogo de tabuleiro 675";Brinquedos;279;1563
+698;"Alicate 897";Ferramentas;279;1560
+516;"Martelo 781";Ferramentas;279;1523
+410;"Smartphone 699";Eletrônicos;279;1478
+757;"Cortina 910";"Casa e Jardim";279;1526
+545;"Serra 177";Ferramentas;279;1561
+964;"Smartphone 500";Eletrônicos;279;1574
+244;"Lâmpada 623";"Casa e Jardim";279;1568
+951;"Infantil 574";Livros;279;1496
+370;"Tênis de corrida 822";Esportes;279;1489
+362;"Bola de futebol 102";Esportes;278;1581
+523;"Sofá 825";Móveis;278;1579
+677;"Câmera 741";Eletrônicos;278;1569
+440;"Notebook 211";Eletrônicos;278;1544
+363;"Sapato 969";Roupas;278;1561
+594;"Calça 885";Roupas;278;1558
+321;"Vaso de planta 625";"Casa e Jardim";278;1519
+837;"TV 446";Eletrônicos;278;1490
+943;"Martelo 631";Ferramentas;278;1518
+684;"Arroz 495";Alimentos;278;1509
+525;"Arroz 451";Alimentos;278;1471
+361;"Martelo 412";Ferramentas;278;1478
+129;"Infantil 425";Livros;278;1581
+486;"Maquiagem 326";Beleza;278;1551
+799;"Cortina 560";"Casa e Jardim";278;1530
+245;"TV 799";Eletrônicos;278;1519
+386;"Vestido 764";Roupas;278;1568
+496;"Alicate 832";Ferramentas;278;1604
+720;"Cadeira 511";Móveis;278;1526
+353;"Jogo de ferramentas 767";"Casa e Jardim";278;1507
+909;"Biografia 825";Livros;278;1482
+122;"Sapato 826";Roupas;278;1523
+162;"Carrinho 771";Brinquedos;278;1582
+469;"Creme hidratante 348";Beleza;278;1547
+450;"Jaqueta 674";Roupas;278;1575
+456;"Calça 108";Roupas;278;1551
+388;"Câmera 457";Eletrônicos;278;1423
+815;"Shampoo 640";Beleza;277;1543
+404;"Romance 241";Livros;277;1499
+233;"Câmera 914";Eletrônicos;277;1404
+872;"Perfume 794";Beleza;277;1489
+769;"Perfume 484";Beleza;277;1492
+371;"Infantil 364";Livros;277;1560
+379;"Notebook 863";Eletrônicos;277;1530
+21;"Bicicleta 418";Brinquedos;277;1552
+978;"Jaqueta 921";Roupas;277;1499
+67;"Infantil 735";Livros;277;1564
+500;"Skate 822";Esportes;277;1453
+259;"Vaso de planta 380";"Casa e Jardim";277;1493
+224;"Bola de futebol 282";Esportes;277;1494
+341;"Feijão 661";Alimentos;277;1508
+339;"Romance 839";Livros;277;1563
+277;"Jogo de tabuleiro 559";Brinquedos;277;1568
+800;"Câmera 519";Eletrônicos;277;1519
+226;"Bola 435";Brinquedos;277;1455
+593;"História 962";Livros;277;1555
+847;"Shampoo 175";Beleza;277;1537
+46;"TV 873";Eletrônicos;277;1608
+127;"Lâmpada 152";"Casa e Jardim";276;1478
+733;"Shampoo 815";Beleza;276;1492
+234;"Jogo de tabuleiro 243";Brinquedos;276;1587
+489;"Boneca 682";Brinquedos;276;1472
+605;"Lâmpada 697";"Casa e Jardim";276;1414
+824;"Guarda-roupa 691";Móveis;276;1580
+626;"Perfume 303";Beleza;276;1594
+763;"Maquiagem 566";Beleza;276;1526
+351;"Smartphone 953";Eletrônicos;276;1533
+442;"Camiseta 829";Roupas;276;1554
+683;"Cortina 772";"Casa e Jardim";276;1544
+936;"Jogo de ferramentas 396";"Casa e Jardim";276;1535
+933;"TV 148";Eletrônicos;276;1547
+47;"Cama 449";Móveis;276;1498
+61;"Vestido 337";Roupas;276;1498
+106;"Cama 339";Móveis;276;1566
+159;"Serra 717";Ferramentas;276;1458
+542;"Frango 206";Alimentos;276;1480
+156;"Arroz 169";Alimentos;276;1508
+625;"Biografia 229";Livros;276;1537
+704;"Infantil 891";Livros;276;1498
+999;"Jaqueta 409";Roupas;275;1509
+408;"Bola 458";Brinquedos;275;1551
+675;"Tênis de corrida 943";Esportes;275;1473
+950;"Bola 533";Brinquedos;275;1532
+472;"Lâmpada 306";"Casa e Jardim";275;1579
+856;"Jaqueta 931";Roupas;275;1478
+45;"Chave de fenda 121";Ferramentas;275;1575
+417;"Tênis de corrida 539";Esportes;275;1476
+51;"Tênis de corrida 240";Esportes;275;1543
+444;"Jaqueta 160";Roupas;275;1594
+317;"Vestido 492";Roupas;275;1501
+274;"Vaso de planta 490";"Casa e Jardim";275;1472
+702;"Arroz 577";Alimentos;275;1474
+907;"Chave de fenda 250";Ferramentas;275;1406
+779;"Alicate 263";Ferramentas;275;1629
+772;"Tapete 415";"Casa e Jardim";275;1532
+485;"Bola 312";Brinquedos;275;1476
+918;"Jaqueta 917";Roupas;275;1499
+622;"Sofá 316";Móveis;275;1497
+725;"TV 227";Eletrônicos;274;1534
+31;"Bola 347";Brinquedos;274;1477
+411;"Romance 718";Livros;274;1516
+995;"Camiseta 190";Roupas;274;1575
+243;"Vaso de planta 152";"Casa e Jardim";274;1458
+522;"Biografia 478";Livros;274;1506
+23;"Tênis de corrida 655";Esportes;274;1653
+384;"Bicicleta 165";Brinquedos;274;1585
+851;"Frango 702";Alimentos;274;1469
+972;"Bola 452";Brinquedos;274;1544
+639;"Vestido 383";Roupas;274;1524
+98;"Fone de ouvido 167";Eletrônicos;274;1472
+988;"TV 447";Eletrônicos;274;1571
+875;"Camisa de time 547";Esportes;274;1552
+792;"TV 522";Eletrônicos;274;1513
+558;"Cadeira 257";Móveis;274;1540
+107;"Maquiagem 626";Beleza;274;1527
+225;"Frango 152";Alimentos;274;1521
+300;"Fone de ouvido 508";Eletrônicos;274;1514
+298;"Tênis de corrida 898";Esportes;274;1483
+534;"Boneca 470";Brinquedos;274;1433
+44;"Maquiagem 263";Beleza;274;1511
+563;"Boneca 176";Brinquedos;274;1472
+573;"Jogo de tabuleiro 366";Brinquedos;274;1473
+589;"Sapato 252";Roupas;274;1518
+813;"Jogo de tabuleiro 909";Brinquedos;274;1544
+786;"Guarda-roupa 420";Móveis;274;1468
+328;"Guarda-roupa 133";Móveis;274;1534
+168;"Jogo de tabuleiro 562";Brinquedos;273;1460
+433;"Sofá 827";Móveis;273;1467
+701;"Tênis de corrida 885";Esportes;273;1504
+140;"Carne 600";Alimentos;273;1386
+554;"Calça 279";Roupas;273;1506
+34;"Notebook 985";Eletrônicos;273;1438
+139;"História 953";Livros;273;1543
+607;"Maquiagem 641";Beleza;273;1520
+143;"Serra 736";Ferramentas;273;1507
+62;"Infantil 468";Livros;273;1523
+586;"Guarda-roupa 382";Móveis;273;1547
+985;"Camiseta 436";Roupas;273;1502
+928;"Calça 281";Roupas;273;1463
+777;"Arroz 498";Alimentos;273;1477
+797;"Chave de fenda 188";Ferramentas;273;1597
+723;"Jaqueta 946";Roupas;273;1463
+747;"Smartphone 546";Eletrônicos;273;1549
+194;"Infantil 820";Livros;273;1455
+817;"Cadeira 517";Móveis;273;1481
+307;"Jaqueta 638";Roupas;273;1519
+890;"Serra 723";Ferramentas;273;1451
+80;"Tapete 832";"Casa e Jardim";273;1454
+994;"Bola 385";Brinquedos;273;1468
+788;"Calça 329";Roupas;273;1528
+200;"Raquete de tênis 534";Esportes;273;1497
+506;"Infantil 848";Livros;273;1557
+549;"Furadeira 583";Ferramentas;272;1525
+726;"Creme hidratante 649";Beleza;272;1432
+843;"Sofá 367";Móveis;272;1557
+751;"Maquiagem 184";Beleza;272;1594
+369;"Cadeira 231";Móveis;272;1491
+952;"Sofá 448";Móveis;272;1446
+391;"Frango 220";Alimentos;272;1514
+84;"TV 982";Eletrônicos;272;1457
+604;"Frango 557";Alimentos;272;1553
+581;"Cortina 565";"Casa e Jardim";272;1537
+430;"Bicicleta 131";Brinquedos;272;1555
+247;"TV 841";Eletrônicos;272;1540
+39;"Jaqueta 319";Roupas;272;1477
+602;"Condicionador 269";Beleza;272;1517
+301;"Biografia 573";Livros;272;1470
+587;"Camiseta 818";Roupas;272;1512
+6;"Jogo de tabuleiro 185";Brinquedos;272;1601
+316;"Macarrão 708";Alimentos;272;1525
+436;"Cadeira 659";Móveis;272;1522
+132;"Biografia 363";Livros;272;1545
+483;"Camiseta 385";Roupas;271;1456
+426;"Condicionador 627";Beleza;271;1537
+96;"Bicicleta 243";Brinquedos;271;1514
+642;"Skate 293";Esportes;271;1415
+503;"TV 434";Eletrônicos;271;1397
+682;"Cortina 100";"Casa e Jardim";271;1510
+290;"Bola 403";Brinquedos;271;1495
+975;"Bicicleta 182";Brinquedos;271;1456
+897;"Macarrão 760";Alimentos;271;1589
+567;"Lâmpada 495";"Casa e Jardim";271;1474
+240;"Creme hidratante 958";Beleza;271;1416
+373;"Furadeira 592";Ferramentas;271;1496
+342;"Chave de fenda 496";Ferramentas;271;1447
+600;"Cadeira 799";Móveis;271;1458
+93;"Calça 458";Roupas;271;1401
+499;"Mesa 589";Móveis;271;1540
+24;"Arroz 778";Alimentos;271;1504
+661;"Feijão 943";Alimentos;271;1544
+672;"Romance 661";Livros;271;1524
+603;"Perfume 143";Beleza;271;1469
+591;"Jogo de ferramentas 999";"Casa e Jardim";271;1593
+993;"Cadeira 625";Móveis;271;1546
+268;"Carrinho 866";Brinquedos;271;1441
+515;"Carne 969";Alimentos;271;1550
+738;"Smartphone 730";Eletrônicos;271;1455
+50;"Fone de ouvido 509";Eletrônicos;270;1474
+863;"Ficção Científica 172";Livros;270;1535
+722;"Bola 835";Brinquedos;270;1574
+267;"Carrinho 115";Brinquedos;270;1497
+989;"História 475";Livros;270;1421
+484;"Jogo de ferramentas 374";"Casa e Jardim";270;1542
+174;"Perfume 225";Beleza;270;1537
+991;"Maquiagem 336";Beleza;270;1499
+836;"Camisa de time 110";Esportes;270;1500
+598;"Furadeira 679";Ferramentas;270;1412
+16;"Cadeira 686";Móveis;270;1498
+78;"Sofá 409";Móveis;270;1463
+816;"Camisa de time 371";Esportes;270;1494
+350;"Frango 835";Alimentos;270;1490
+458;"Cadeira 893";Móveis;270;1517
+495;"Bola de futebol 805";Esportes;270;1426
+619;"Câmera 270";Eletrônicos;270;1480
+455;"Bicicleta 453";Brinquedos;270;1414
+17;"Camisa de time 843";Esportes;270;1487
+195;"Cama 212";Móveis;270;1504
+368;"Mesa 662";Móveis;270;1467
+841;"Macarrão 499";Alimentos;270;1484
+818;"Lâmpada 467";"Casa e Jardim";270;1460
+304;"Shampoo 952";Beleza;270;1505
+394;"História 305";Livros;270;1519
+134;"Martelo 973";Ferramentas;270;1420
+696;"Calça 290";Roupas;270;1437
+296;"Vestido 668";Roupas;270;1439
+465;"Vestido 719";Roupas;270;1456
+5;"Bola de futebol 156";Esportes;270;1507
+400;"Feijão 200";Alimentos;269;1481
+984;"Ficção Científica 868";Livros;269;1496
+219;"Creme hidratante 221";Beleza;269;1556
+790;"Furadeira 775";Ferramentas;269;1425
+185;"Perfume 762";Beleza;269;1461
+713;"Shampoo 113";Beleza;269;1406
+674;"Macarrão 577";Alimentos;269;1476
+801;"Furadeira 352";Ferramentas;269;1449
+932;"Chave de fenda 783";Ferramentas;269;1494
+866;"Biografia 807";Livros;269;1496
+705;"Chave de fenda 723";Ferramentas;269;1433
+415;"Câmera 332";Eletrônicos;269;1448
+346;"História 489";Livros;269;1495
+550;"Macarrão 725";Alimentos;269;1423
+55;"Biografia 245";Livros;269;1491
+680;"Alicate 517";Ferramentas;269;1445
+755;"Carne 345";Alimentos;269;1493
+197;"Chave de fenda 564";Ferramentas;269;1423
+126;"Raquete de tênis 317";Esportes;269;1528
+930;"Smartphone 565";Eletrônicos;268;1475
+783;"Ficção Científica 971";Livros;268;1560
+322;"Camiseta 306";Roupas;268;1419
+884;"Jogo de tabuleiro 564";Brinquedos;268;1478
+498;"Shampoo 422";Beleza;268;1360
+925;"Vestido 352";Roupas;268;1627
+473;"TV 453";Eletrônicos;268;1473
+743;"Maquiagem 755";Beleza;268;1545
+588;"Alicate 942";Ferramentas;268;1434
+401;"Biografia 167";Livros;268;1447
+880;"Serra 754";Ferramentas;268;1448
+237;"Bola de futebol 922";Esportes;268;1505
+707;"Smartphone 400";Eletrônicos;268;1449
+921;"Creme hidratante 731";Beleza;268;1475
+439;"Chave de fenda 180";Ferramentas;268;1439
+313;"Vaso de planta 808";"Casa e Jardim";268;1438
+28;"Jaqueta 961";Roupas;268;1445
+630;"Guarda-roupa 464";Móveis;268;1439
+20;"Arroz 237";Alimentos;268;1460
+804;"TV 270";Eletrônicos;268;1474
+962;"Lâmpada 482";"Casa e Jardim";268;1473
+303;"Chave de fenda 266";Ferramentas;268;1411
+497;"Bola de futebol 184";Esportes;268;1479
+481;"Jogo de ferramentas 671";"Casa e Jardim";268;1510
+285;"Fone de ouvido 499";Eletrônicos;268;1494
+714;"Cortina 444";"Casa e Jardim";268;1473
+492;"Creme hidratante 904";Beleza;268;1487
+459;"Feijão 603";Alimentos;267;1511
+89;"Furadeira 442";Ferramentas;267;1587
+576;"Raquete de tênis 322";Esportes;267;1430
+908;"Macarrão 783";Alimentos;267;1473
+568;"Cortina 432";"Casa e Jardim";267;1392
+914;"Cortina 864";"Casa e Jardim";267;1518
+879;"Bola de futebol 355";Esportes;267;1393
+355;"Maquiagem 731";Beleza;267;1536
+662;"Serra 224";Ferramentas;267;1404
+343;"Maquiagem 746";Beleza;267;1536
+190;"Shampoo 524";Beleza;267;1486
+874;"Infantil 254";Livros;267;1513
+385;"Infantil 822";Livros;267;1488
+33;"Carne 548";Alimentos;267;1479
+606;"Frango 876";Alimentos;267;1416
+212;"Infantil 730";Livros;267;1497
+100;"Perfume 882";Beleza;267;1428
+802;"Creme hidratante 338";Beleza;267;1396
+114;"Perfume 173";Beleza;267;1476
+493;"Tênis de corrida 608";Esportes;267;1420
+204;"Furadeira 307";Ferramentas;267;1469
+610;"Bola 530";Brinquedos;267;1526
+945;"Macarrão 218";Alimentos;267;1475
+157;"Martelo 813";Ferramentas;267;1476
+146;"Bola de futebol 562";Esportes;267;1398
+284;"Bola 248";Brinquedos;267;1453
+955;"Cortina 740";"Casa e Jardim";267;1443
+746;"Condicionador 391";Beleza;266;1495
+652;"Lâmpada 758";"Casa e Jardim";266;1439
+917;"Calça 643";Roupas;266;1397
+559;"Bicicleta 971";Brinquedos;266;1442
+222;"Fone de ouvido 665";Eletrônicos;266;1461
+26;"Fone de ouvido 702";Eletrônicos;266;1476
+170;"Bicicleta 261";Brinquedos;266;1522
+294;"Arroz 289";Alimentos;266;1454
+65;"Tapete 719";"Casa e Jardim";266;1481
+149;"Ficção Científica 224";Livros;266;1483
+12;"Carrinho 946";Brinquedos;266;1445
+41;"Tapete 883";"Casa e Jardim";266;1477
+392;"Jogo de ferramentas 652";"Casa e Jardim";266;1447
+15;"Feijão 389";Alimentos;266;1424
+86;"Bola 946";Brinquedos;266;1496
+524;"Jogo de tabuleiro 143";Brinquedos;266;1459
+627;"Macarrão 303";Alimentos;266;1470
+739;"Infantil 981";Livros;266;1436
+634;"Cama 585";Móveis;266;1517
+643;"Skate 861";Esportes;266;1417
+574;"Tapete 876";"Casa e Jardim";266;1459
+891;"Serra 960";Ferramentas;266;1472
+173;"Guarda-roupa 556";Móveis;266;1458
+315;"Cortina 896";"Casa e Jardim";266;1410
+716;"Smartphone 819";Eletrônicos;266;1510
+728;"Ficção Científica 388";Livros;266;1470
+519;"Notebook 857";Eletrônicos;266;1473
+266;"Martelo 463";Ferramentas;266;1450
+238;"Mesa 373";Móveis;266;1431
+835;"Camiseta 325";Roupas;266;1474
+239;"História 775";Livros;266;1414
+324;"Martelo 944";Ferramentas;265;1401
+886;"Bola 979";Brinquedos;265;1441
+79;"Raquete de tênis 403";Esportes;265;1462
+58;"Lâmpada 271";"Casa e Jardim";265;1490
+744;"Feijão 568";Alimentos;265;1419
+183;"Cortina 838";"Casa e Jardim";265;1475
+564;"Skate 557";Esportes;265;1424
+806;"Frango 325";Alimentos;265;1394
+425;"Jogo de ferramentas 190";"Casa e Jardim";265;1433
+111;"Serra 156";Ferramentas;265;1476
+508;"Smartphone 103";Eletrônicos;265;1452
+527;"Arroz 512";Alimentos;265;1481
+488;"Alicate 974";Ferramentas;265;1502
+877;"Raquete de tênis 376";Esportes;265;1417
+940;"TV 405";Eletrônicos;265;1533
+973;"Carne 330";Alimentos;265;1459
+280;"Infantil 230";Livros;265;1495
+467;"Frango 298";Alimentos;265;1436
+309;"Serra 665";Ferramentas;265;1504
+689;"Cama 589";Móveis;265;1453
+365;"Bola 910";Brinquedos;265;1513
+338;"Tênis de corrida 310";Esportes;265;1470
+372;"Frango 319";Alimentos;265;1473
+521;"TV 534";Eletrônicos;265;1487
+694;"Mesa 751";Móveis;265;1492
+858;"Frango 534";Alimentos;265;1402
+631;"Camisa de time 962";Esportes;264;1414
+857;"Calça 319";Roupas;264;1454
+870;"Cortina 856";"Casa e Jardim";264;1397
+596;"Condicionador 304";Beleza;264;1418
+4;"Infantil 258";Livros;264;1391
+584;"Calça 691";Roupas;264;1412
+193;"Vestido 382";Roupas;264;1388
+358;"Maquiagem 955";Beleza;264;1502
+359;"Lâmpada 739";"Casa e Jardim";264;1318
+517;"Smartphone 508";Eletrônicos;264;1500
+961;"Tênis de corrida 881";Esportes;264;1422
+269;"Camiseta 851";Roupas;264;1519
+540;"Bola de futebol 113";Esportes;264;1447
+271;"Cama 202";Móveis;264;1396
+919;"Frango 470";Alimentos;264;1453
+842;"Frango 798";Alimentos;264;1529
+14;"Skate 496";Esportes;264;1517
+730;"Boneca 500";Brinquedos;264;1397
+670;"Alicate 312";Ferramentas;264;1497
+71;"Creme hidratante 730";Beleza;263;1421
+205;"Cama 101";Móveis;263;1439
+686;"Arroz 286";Alimentos;263;1448
+172;"Raquete de tênis 230";Esportes;263;1511
+773;"Jogo de tabuleiro 924";Brinquedos;263;1464
+94;"Cama 868";Móveis;263;1481
+982;"Boneca 445";Brinquedos;263;1479
+357;"Mesa 906";Móveis;263;1599
+903;"Creme hidratante 802";Beleza;263;1377
+223;"Cortina 318";"Casa e Jardim";263;1485
+261;"Camisa de time 798";Esportes;263;1345
+734;"Furadeira 568";Ferramentas;263;1467
+795;"Cadeira 461";Móveis;263;1377
+434;"Skate 999";Esportes;263;1403
+927;"Câmera 799";Eletrônicos;263;1435
+721;"Mesa 792";Móveis;263;1453
+152;"Fone de ouvido 867";Eletrônicos;263;1474
+913;"Condicionador 570";Beleza;263;1474
+125;"Vestido 551";Roupas;263;1468
+531;"Bicicleta 273";Brinquedos;263;1490
+405;"Lâmpada 814";"Casa e Jardim";262;1481
+330;"Jogo de ferramentas 928";"Casa e Jardim";262;1462
+980;"Vaso de planta 344";"Casa e Jardim";262;1436
+937;"Bola de futebol 265";Esportes;262;1505
+659;"Camisa de time 666";Esportes;262;1426
+188;"Sapato 611";Roupas;262;1439
+270;"Frango 454";Alimentos;262;1378
+144;"Condicionador 700";Beleza;262;1408
+640;"Chave de fenda 260";Ferramentas;262;1491
+406;"Cortina 822";"Casa e Jardim";262;1423
+453;"Carrinho 645";Brinquedos;262;1451
+565;"Raquete de tênis 322";Esportes;262;1396
+289;"Câmera 140";Eletrônicos;262;1345
+449;"Vestido 496";Roupas;262;1465
+87;"Arroz 402";Alimentos;262;1464
+501;"Camisa de time 415";Esportes;262;1433
+690;"História 347";Livros;262;1463
+840;"Vaso de planta 261";"Casa e Jardim";262;1406
+275;"Romance 110";Livros;262;1394
+957;"Maquiagem 603";Beleza;261;1431
+399;"Macarrão 374";Alimentos;261;1476
+585;"História 197";Livros;261;1499
+273;"Jaqueta 735";Roupas;261;1437
+766;"Bola de futebol 553";Esportes;261;1493
+512;"Carne 391";Alimentos;261;1452
+334;"Jogo de ferramentas 627";"Casa e Jardim";261;1361
+112;"Tênis de corrida 196";Esportes;261;1388
+992;"Alicate 843";Ferramentas;261;1459
+513;"Boneca 281";Brinquedos;261;1441
+181;"Carrinho 702";Brinquedos;261;1460
+693;"Bola de futebol 420";Esportes;261;1490
+109;"Sapato 399";Roupas;261;1372
+828;"História 401";Livros;261;1503
+424;"Vaso de planta 207";"Casa e Jardim";261;1463
+767;"Tênis de corrida 327";Esportes;260;1362
+956;"Camiseta 229";Roupas;260;1464
+742;"Bicicleta 998";Brinquedos;260;1410
+504;"Raquete de tênis 292";Esportes;260;1355
+210;"Mesa 829";Móveis;260;1396
+292;"Alicate 689";Ferramentas;260;1493
+645;"Guarda-roupa 466";Móveis;260;1518
+895;"Vaso de planta 237";"Casa e Jardim";260;1398
+727;"Biografia 601";Livros;260;1499
+924;"Sapato 806";Roupas;260;1469
+651;"Lâmpada 983";"Casa e Jardim";260;1458
+794;"Chave de fenda 239";Ferramentas;260;1511
+431;"Ficção Científica 736";Livros;260;1435
+36;"Skate 645";Esportes;260;1459
+123;"Sofá 618";Móveis;260;1408
+348;"Câmera 427";Eletrônicos;260;1426
+718;"Boneca 880";Brinquedos;260;1464
+719;"Shampoo 749";Beleza;260;1456
+947;"Tapete 642";"Casa e Jardim";260;1416
+560;"Sofá 416";Móveis;259;1453
+613;"Sapato 930";Roupas;259;1449
+939;"Alicate 284";Ferramentas;259;1406
+979;"Camisa de time 357";Esportes;259;1368
+910;"Romance 640";Livros;259;1430
+482;"Jogo de ferramentas 700";"Casa e Jardim";259;1425
+844;"Condicionador 788";Beleza;259;1343
+678;"Infantil 902";Livros;259;1370
+345;"Calça 461";Roupas;259;1331
+562;"Notebook 955";Eletrônicos;259;1449
+865;"TV 253";Eletrônicos;259;1497
+834;"Camisa de time 917";Esportes;259;1373
+633;"Romance 139";Livros;259;1349
+611;"Chave de fenda 286";Ferramentas;259;1430
+502;"Sofá 766";Móveis;259;1465
+407;"Bola 436";Brinquedos;259;1467
+208;"Vestido 387";Roupas;259;1421
+73;"Creme hidratante 453";Beleza;259;1409
+724;"Sapato 434";Roupas;259;1417
+761;"Jogo de ferramentas 385";"Casa e Jardim";259;1458
+422;"Jogo de ferramentas 962";"Casa e Jardim";259;1431
+474;"Guarda-roupa 895";Móveis;259;1443
+83;"Romance 623";Livros;259;1326
+805;"Sofá 248";Móveis;259;1466
+231;"Martelo 590";Ferramentas;258;1405
+822;"Vestido 164";Roupas;258;1392
+258;"Sapato 504";Roupas;258;1396
+520;"Carrinho 308";Brinquedos;258;1379
+533;"Cadeira 229";Móveis;258;1379
+241;"Camisa de time 116";Esportes;258;1443
+147;"Macarrão 146";Alimentos;258;1373
+198;"Carne 666";Alimentos;258;1467
+657;"Cama 352";Móveis;258;1401
+628;"Lâmpada 700";"Casa e Jardim";258;1467
+214;"Calça 400";Roupas;258;1355
+402;"Tênis de corrida 523";Esportes;258;1410
+660;"Bola de futebol 508";Esportes;258;1441
+881;"Cortina 401";"Casa e Jardim";258;1398
+409;"Jaqueta 999";Roupas;258;1487
+926;"Vaso de planta 568";"Casa e Jardim";258;1408
+566;"Cama 197";Móveis;258;1458
+935;"Arroz 485";Alimentos;258;1415
+166;"Feijão 218";Alimentos;258;1464
+775;"Smartphone 705";Eletrônicos;258;1344
+612;"Raquete de tênis 511";Esportes;258;1408
+141;"Cama 382";Móveis;258;1410
+236;"Bola 280";Brinquedos;258;1529
+443;"Condicionador 437";Beleza;258;1396
+904;"Creme hidratante 837";Beleza;257;1454
+536;"Bicicleta 581";Brinquedos;257;1366
+729;"Vestido 410";Roupas;257;1317
+938;"Câmera 856";Eletrônicos;257;1463
+419;"Sofá 641";Móveis;257;1531
+206;"Tênis de corrida 233";Esportes;257;1378
+403;"Camiseta 901";Roupas;257;1424
+199;"Arroz 133";Alimentos;257;1379
+811;"Furadeira 626";Ferramentas;257;1390
+530;"Martelo 280";Ferramentas;257;1439
+673;"Ficção Científica 157";Livros;257;1422
+438;"Perfume 426";Beleza;257;1430
+63;"Mesa 772";Móveis;257;1356
+572;"Camiseta 175";Roupas;256;1351
+827;"Bola 933";Brinquedos;256;1374
+998;"História 910";Livros;256;1446
+287;"Sapato 255";Roupas;256;1410
+420;"Smartphone 920";Eletrônicos;256;1369
+647;"Arroz 618";Alimentos;256;1423
+679;"Bicicleta 651";Brinquedos;256;1452
+135;"Condicionador 353";Beleza;256;1489
+230;"Infantil 452";Livros;256;1450
+333;"Condicionador 367";Beleza;256;1472
+641;"Carrinho 924";Brinquedos;256;1462
+454;"História 652";Livros;255;1444
+256;"Romance 350";Livros;255;1368
+421;"História 663";Livros;255;1471
+40;"Sapato 389";Roupas;255;1422
+148;"Skate 771";Esportes;255;1460
+276;"Shampoo 397";Beleza;255;1374
+288;"Cama 947";Móveis;255;1440
+374;"Sofá 881";Móveis;255;1375
+262;"Chave de fenda 896";Ferramentas;255;1401
+848;"Furadeira 532";Ferramentas;255;1423
+590;"Calça 760";Roupas;255;1485
+577;"Ficção Científica 582";Livros;255;1383
+770;"Skate 567";Esportes;255;1370
+202;"Sapato 304";Roupas;255;1329
+668;"Skate 439";Esportes;255;1473
+929;"Cadeira 855";Móveis;254;1418
+60;"Shampoo 529";Beleza;254;1376
+344;"Mesa 329";Móveis;254;1403
+82;"Creme hidratante 904";Beleza;254;1389
+249;"Bola 973";Brinquedos;254;1448
+764;"Biografia 673";Livros;254;1453
+551;"Infantil 746";Livros;254;1371
+715;"Camiseta 900";Roupas;254;1395
+113;"Vestido 718";Roupas;254;1520
+137;"Boneca 955";Brinquedos;254;1403
+318;"Skate 171";Esportes;254;1359
+281;"Serra 315";Ferramentas;254;1353
+987;"Romance 875";Livros;254;1447
+383;"Guarda-roupa 558";Móveis;254;1389
+969;"Smartphone 784";Eletrônicos;253;1383
+981;"Biografia 838";Livros;253;1313
+781;"Ficção Científica 432";Livros;253;1385
+963;"Carrinho 159";Brinquedos;253;1399
+364;"Skate 443";Esportes;253;1390
+595;"História 375";Livros;252;1363
+561;"Tênis de corrida 922";Esportes;252;1418
+505;"História 483";Livros;252;1373
+108;"Boneca 562";Brinquedos;252;1389
+752;"Raquete de tênis 258";Esportes;252;1333
+11;"Cortina 452";"Casa e Jardim";252;1427
+263;"Alicate 722";Ferramentas;252;1353
+286;"Bola de futebol 939";Esportes;251;1374
+839;"Furadeira 525";Ferramentas;251;1352
+529;"Jogo de tabuleiro 984";Brinquedos;251;1381
+970;"Furadeira 734";Ferramentas;251;1340
+511;"Creme hidratante 106";Beleza;251;1376
+832;"Maquiagem 441";Beleza;251;1326
+570;"TV 555";Eletrônicos;251;1362
+983;"Biografia 506";Livros;251;1365
+302;"Jaqueta 875";Roupas;251;1391
+297;"Raquete de tênis 194";Esportes;251;1351
+785;"Arroz 218";Alimentos;251;1335
+539;"Vestido 268";Roupas;250;1309
+885;"Alicate 700";Ferramentas;250;1395
+620;"Maquiagem 584";Beleza;250;1340
+163;"Creme hidratante 728";Beleza;250;1320
+57;"Sofá 552";Móveis;250;1387
+251;"Feijão 160";Alimentos;250;1371
+320;"Biografia 201";Livros;250;1363
+255;"Notebook 938";Eletrônicos;250;1395
+464;"Notebook 535";Eletrônicos;250;1315
+748;"Smartphone 688";Eletrônicos;250;1446
+242;"Condicionador 227";Beleza;250;1398
+331;"Ficção Científica 624";Livros;250;1320
+299;"Bicicleta 826";Brinquedos;250;1439
+873;"Fone de ouvido 803";Eletrônicos;249;1295
+948;"Bicicleta 283";Brinquedos;249;1339
+922;"Cortina 351";"Casa e Jardim";249;1393
+395;"Biografia 407";Livros;249;1398
+329;"Macarrão 882";Alimentos;249;1435
+624;"Sapato 658";Roupas;249;1292
+203;"Macarrão 593";Alimentos;249;1363
+575;"Cortina 186";"Casa e Jardim";249;1297
+653;"Cadeira 761";Móveis;249;1382
+846;"Ficção Científica 241";Livros;249;1381
+774;"Fone de ouvido 885";Eletrônicos;249;1318
+337;"Perfume 413";Beleza;249;1396
+648;"Jogo de tabuleiro 309";Brinquedos;249;1379
+899;"Cama 486";Móveis;249;1328
+66;"Sofá 895";Móveis;248;1318
+803;"Romance 700";Livros;248;1263
+85;"Sapato 481";Roupas;248;1346
+74;"Cortina 748";"Casa e Jardim";248;1422
+314;"Perfume 770";Beleza;248;1426
+953;"Fone de ouvido 484";Eletrônicos;248;1347
+413;"Condicionador 172";Beleza;248;1396
+104;"Raquete de tênis 927";Esportes;247;1377
+893;"Camisa de time 902";Esportes;247;1339
+142;"Infantil 371";Livros;247;1398
+428;"Macarrão 470";Alimentos;247;1329
+557;"Carrinho 288";Brinquedos;247;1315
+462;"Cadeira 921";Móveis;247;1320
+42;"Ficção Científica 747";Livros;246;1320
+750;"Cama 111";Móveis;246;1346
+809;"Jogo de tabuleiro 657";Brinquedos;246;1486
+900;"Skate 846";Esportes;246;1424
+390;"Bola de futebol 702";Esportes;246;1270
+543;"Vestido 318";Roupas;246;1313
+814;"Furadeira 812";Ferramentas;246;1393
+335;"História 891";Livros;246;1382
+252;"Sofá 352";Móveis;246;1389
+658;"Vestido 498";Roupas;246;1384
+177;"Cama 270";Móveis;246;1363
+663;"Ficção Científica 721";Livros;246;1352
+901;"Biografia 871";Livros;246;1392
+965;"Camisa de time 385";Esportes;246;1358
+323;"Guarda-roupa 465";Móveis;245;1325
+681;"Boneca 945";Brinquedos;245;1329
+319;"Bola 206";Brinquedos;245;1371
+381;"Camisa de time 765";Esportes;244;1358
+758;"História 426";Livros;244;1275
+352;"Jogo de ferramentas 545";"Casa e Jardim";244;1384
+491;"Boneca 387";Brinquedos;244;1308
+528;"Bicicleta 777";Brinquedos;244;1347
+7;"História 707";Livros;244;1365
+592;"Bicicleta 655";Brinquedos;244;1323
+833;"Frango 986";Alimentos;243;1329
+397;"TV 154";Eletrônicos;242;1321
+3;"Skate 745";Esportes;242;1302
+601;"Cama 420";Móveis;242;1380
+697;"Cortina 307";"Casa e Jardim";242;1340
+692;"Jogo de tabuleiro 409";Brinquedos;242;1333
+133;"Calça 769";Roupas;242;1306
+583;"História 921";Livros;241;1376
+227;"Feijão 704";Alimentos;241;1316
+555;"Raquete de tênis 528";Esportes;241;1402
+91;"Tênis de corrida 450";Esportes;241;1306
+666;"Camiseta 841";Roupas;241;1271
+150;"Raquete de tênis 426";Esportes;241;1380
+311;"Boneca 130";Brinquedos;240;1305
+136;"Biografia 300";Livros;240;1302
+617;"Perfume 207";Beleza;240;1303
+354;"Fone de ouvido 577";Eletrônicos;240;1256
+427;"Perfume 451";Beleza;239;1359
+656;"Furadeira 835";Ferramentas;239;1236
+412;"Guarda-roupa 720";Móveis;239;1373
+609;"Chave de fenda 658";Ferramentas;239;1343
+826;"Jogo de tabuleiro 897";Brinquedos;239;1267
+121;"Frango 884";Alimentos;238;1315
+710;"Jogo de tabuleiro 563";Brinquedos;238;1380
+216;"Biografia 945";Livros;237;1322
+128;"Feijão 172";Alimentos;237;1328
+282;"Ficção Científica 167";Livros;237;1264
+1;"Câmera 686";Eletrônicos;237;1232
+2;"Lâmpada 288";"Casa e Jardim";236;1238
+793;"Camisa de time 668";Esportes;236;1379
+487;"Calça 483";Roupas;232;1299
+376;"Sofá 717";Móveis;232;1157
+541;"Mesa 802";Móveis;231;1243
+553;"Maquiagem 137";Beleza;231;1256
+644;"Calça 863";Roupas;231;1236
+366;"História 122";Livros;230;1243
+518;"Bola de futebol 611";Esportes;227;1259
+712;"Camiseta 187";Roupas;227;1288
+838;"Furadeira 806";Ferramentas;223;1272
+211;"Skate 564";Esportes;219;1175
+178;"Smartphone 376";Eletrônicos;219;1245
+860;"Macarrão 438";Alimentos;215;1274
